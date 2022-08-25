@@ -132,6 +132,11 @@ h3 {
 
 label {
     color: #4E4958;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
 }
 
 h4 {
